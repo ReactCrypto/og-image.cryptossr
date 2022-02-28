@@ -94,7 +94,7 @@ const HongHongMe = () => {
                 fontSize: "64px",
                 lineHeight: "73.59px",
                 color: params.color ? params.color : "#FEFEFE",
-                fontWeight: 300,
+                fontWeight: 600,
                 fontStyle: "normal",
                 textAlign: "center",
               }}

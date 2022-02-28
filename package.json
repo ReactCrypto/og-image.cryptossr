@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@fontsource/fredoka-one": "^4.5.2",
+    "@fontsource/noto-sans-tc": "^4.5.4",
     "autoprefixer": "^10.4.2",
     "next": "^12.1.0",
     "postcss": "^8.4.7",

@@ -1,5 +1,5 @@
 import "../styles/index.css";
-import "@fontsource/fredoka-one";
+import "@fontsource/noto-sans-tc";
 
 function OgImageApp({ Component, pageProps }) {
   return <Component {...pageProps} />;
